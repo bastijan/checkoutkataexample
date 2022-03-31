@@ -13,5 +13,3 @@ This week's rule:
 | Peach  | 60              |  -                   |
 
 The checkout accepts the items in any order, so that if we scan an apple, a banana and another apple, we’ll recognise two apples and apply the discount of 2 for 45.
-
-Credit to: https://rubygem.me/2014/01/16/shopping-cart-kata/
